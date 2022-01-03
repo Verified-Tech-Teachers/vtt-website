@@ -20,8 +20,15 @@ There are different ways to contribute to an open source project:
 
 No matter how anyone contributes, polite/professional interactions are expected.
 
-## P.S.
+## Other Details
 
+### Decisions
+
+In order to get this project off the ground, some initial decisions are likely to be made.
+This does not mean that these decisions are permanent.
+If you feel like a decision should be re-considered, please file an issue and outline your thoughts.
+
+### Mistakes
 I will probably do something wrong during the course of this project.
 I apologize in advance and I'll specifically apologize when it happens.
 I'm not trying to leave anyone out or create worse barriers to entry. 
