@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 html {
-    background-color: white;
+    background-color: #c6c6c6;
     color: black;
 }
 body {
@@ -16,6 +16,12 @@ body {
     min-height: 100vh;
     padding: 0;
 }
+/* @media (min-width: 48em) {
+    body {
+        background: url('../public/assets/images/bg-particles.png') no-repeat center center fixed;
+        background-size: cover;
+    }
+} */
 header {
     display: flex;
     justify-content: center;
@@ -31,12 +37,15 @@ h1 {
 main {
     flex: 1;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 img.logo {
     display: block;
-    height: 300px;
-    margin: 0 auto;
-    width: 300px;
+    height: 600px;
+    margin: auto;
+    width: 600px;
 }
 .intro {
     display: flex;
