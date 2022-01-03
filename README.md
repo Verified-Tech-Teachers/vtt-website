@@ -2,6 +2,8 @@
 
 This is an open-source project that intends to combat the grift in web development by providing some process to identify quality teachers and content creators in tech.
 
+Keep up with the project here: https://github.com/orgs/Verified-Tech-Teachers/projects/1
+
 P.S. I will probably do something wrong during the course of this project. I apologize in advance and I'll specifically apologize when it happens. I'm not trying to leave anyone out or create worse barriers. I'm also willing to learn, so please bear with me.
 
 ## Contributing
