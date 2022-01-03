@@ -1,0 +1,65 @@
+*, *:after {
+    box-sizing: border-box;
+}
+html {
+    background-color: white;
+    color: black;
+}
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1.2;
+    margin: 0;
+    min-height: 100vh;
+    padding: 0;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+h1 {
+    display: flex;
+    font-size: 2rem;
+    font-weight: bold;
+    justify-content: center;
+}
+main {
+    flex: 1;
+    width: 100%;
+}
+img.logo {
+    display: block;
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+}
+.intro {
+    display: flex;
+    font-size: 1.25rem;
+    font-weight: bold;
+    justify-content: center;
+    padding: 0 5%;
+    width: 100%;
+}
+@media (min-width: 48em) {
+    .intro {
+        padding: 0 25%;
+    }
+}
+footer {
+    align-items: center;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 100%;
+}
+footer a {
+    color: aliceblue;
+}
