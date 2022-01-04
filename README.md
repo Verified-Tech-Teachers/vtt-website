@@ -7,6 +7,7 @@ This is an open-source project that intends to combat the grift in web developme
 It is hosted on a sponsored OSS plan on Netlify. 
 
 Keep up with the project here: https://github.com/orgs/Verified-Tech-Teachers/projects/1
+Or check in on the wiki: https://github.com/Verified-Tech-Teachers/vtt-website/wiki
 
 ## Contributing
 
