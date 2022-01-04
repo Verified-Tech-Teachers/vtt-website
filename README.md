@@ -2,7 +2,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e44c677-726c-4205-b66e-049b61262609/deploy-status)](https://app.netlify.com/sites/vtteachers/deploys)
 
-This is an open-source project that intends to combat the grift in web development by providing some process to identify quality teachers and content creators in tech. It is hosted on a sponsored OSS plan on Netlify. 
+This is an open-source project that intends to combat the grift in web development by providing some process to identify quality teachers and content creators in tech.
+
+It is hosted on a sponsored OSS plan on Netlify. 
 
 Keep up with the project here: https://github.com/orgs/Verified-Tech-Teachers/projects/1
 
